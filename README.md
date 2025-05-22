@@ -10,5 +10,11 @@ I also enjoy turning data into insights using Tableau, Power BI, and Excel.
 
 I'm actively seeking entry-level roles in **cybersecurity**, **cloud infrastructure**, or **data analytics**, where I can grow, contribute, and continue learning.
 
+## 💻 Featured Projects
+
+- [🔐 Smart Home Device Security System Analysis](projects/smart-home-device-security.md)
+- [☁️ AWS Cloud Architecture Demo (Coming Soon)](projects/cloud-demo.md)
+
+
 [📄 View my Resume](Resume-CS.pdf)  
 [📫 Contact me](mailto:jeancarla.romin@outlook.com) • [LinkedIn](https://linkedin.com/in/jeancarlaromin) • [GitHub](https://github.com/jc-romin)
