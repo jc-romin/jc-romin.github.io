@@ -12,7 +12,7 @@ I'm actively seeking entry-level roles in **cybersecurity**, **cloud infrastruct
 
 ## 💻 Featured Projects
 
-- [🔐 Smart Home Device Security System Analysis](projects/smart-home-device-security.md)
+- [🔐 Smart Home Device Security System Analysis](projects/smart-home-devices.md)
 - [☁️ AWS Cloud Architecture Demo (Coming Soon)](projects/cloud-demo.md)
 
 
