@@ -18,4 +18,4 @@ Our team explored system-level vulnerabilities and compliance risks in smart dat
 - Delivered a comprehensive technical report with risk analysis and design recommendations
 - Presented findings to stakeholders and received strong feedback on clarity and depth
 
-[📄 Read the Report](projects/JeanCarlaRomin-RiipenFinalSubmission.pdf) 
+[📄 Read the Report](jc-romin.github.io/projects/JeanCarlaRomin-RiipenFinalSubmission.pdf) 
