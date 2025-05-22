@@ -10,5 +10,5 @@ I also enjoy turning data into insights using Tableau, Power BI, and Excel.
 
 I'm actively seeking entry-level roles in **cybersecurity**, **cloud infrastructure**, or **data analytics**, where I can grow, contribute, and continue learning.
 
-[📄 View my Resume](JeanCarlaRomin-Resume.pdf)  
+[📄 View my Resume](Resume.pdf)  
 [📫 Contact me](mailto:jeancarla.romin@outlook.com) • [LinkedIn](https://linkedin.com/in/jeancarlaromin) • [GitHub](https://github.com/jc-romin)
