@@ -1,7 +1,7 @@
 # Smart Home Device Security System Analysis
 
 **Role:** Security Analyst (Student Team Project)  
-**Tools Used:** OWASP, NIST, GDPR, PIPEDA  
+**Skills:** Research, Independent Work, Security Frameworks and Regulatory Compliance (OWASP, NIST, GDPR, PIPEDA)  
 **Timeline:** January 2025 - February 2025
 
 ## 🔍 Project Overview
