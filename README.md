@@ -12,9 +12,21 @@ I'm actively seeking entry-level roles in **cybersecurity**, **cloud infrastruct
 
 ## 💻 Featured Projects
 
+### Cybersecurity
+
 - [🔐 Smart Home Device Security System Analysis](projects/smart-home-devices.md)
 - [☁️ AWS Cloud Architecture Demo (Coming Soon)](projects/cloud-demo.md)
 
+### Data Analytics
+
+- Airline Departure and Arrival (Coming Soon)
+- Sephora Product Performance (Coming Soon)
+- Cafe Recommendation (Coming Soon)
+
+### Software Development 
+
+- Budgeting App (Coming Soon) 
+- Mon Etoile (Coming Soon)
 
 [📄 View my Resume](Resume-CS.pdf)  
 [📫 Contact me](mailto:jeancarla.romin@outlook.com) • [LinkedIn](https://linkedin.com/in/jeancarlaromin) • [GitHub](https://github.com/jc-romin)
