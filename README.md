@@ -2,6 +2,8 @@
 
 I'm a recent BSc Mathematics graduate from the University of Calgary, with a concentration in Statistics and a growing passion for **cybersecurity**, **cloud computing**, and **data analysis**. I'm actively seeking entry-level roles in **cybersecurity**, **cloud infrastructure**, or **data analytics**, where I can grow, contribute, and continue learning.
 
+I am someone who deeply values the continuous pursuit of personal development, so I proactively look for ways to upskill and improve myself. I've partaken in programs such as the Information and Communications Technology Council's (ICTC) CTWIL Program and PwC's Jump Start Your Career program.   
+
 *****
 
 ## Technical Skills 
@@ -35,6 +37,13 @@ I'm a recent BSc Mathematics graduate from the University of Calgary, with a con
 *****
 
 ## Certifications
+
+- [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/15fbc078-2d41-40ae-8dda-aa28b4aac9ee/public_url)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/23dcb64a-2f81-439b-b17c-9c2d6f6a42ba/public_url)
+- [Microsoft Certified: Azure AI Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/86F1397E3008D188?sharingId=5D4CCB983F7B5792)
+- [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/85A91A8D87D61916?sharingId=5D4CCB983F7B5792)
+- [Microsoft Certified Security, Compliance, and Indentity Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/319B7E91337070E4?sharingId=5D4CCB983F7B5792)
+
 
 [📄 View my Resume](Resume-CS.pdf)  
 [📫 Contact me](mailto:jeancarla.romin@outlook.com) • [LinkedIn](https://linkedin.com/in/jeancarlaromin) • [GitHub](https://github.com/jc-romin)
