@@ -10,6 +10,14 @@ I also enjoy turning data into insights using Tableau, Power BI, and Excel.
 
 I'm actively seeking entry-level roles in **cybersecurity**, **cloud infrastructure**, or **data analytics**, where I can grow, contribute, and continue learning.
 
+## Technical Skills 
+
+**Programming Languages:** Python, Javascript, Java, C++, HTML, CSS
+
+**Markup Languages:** Markdown & Latex
+
+**Developer Tools:** Git, VSCode
+
 ## 💻 Featured Projects
 
 ### Cybersecurity
