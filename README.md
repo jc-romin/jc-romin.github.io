@@ -45,7 +45,7 @@ I am someone who deeply values the continuous pursuit of personal development, s
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/85A91A8D87D61916?sharingId=5D4CCB983F7B5792)
 - [Microsoft Certified Security, Compliance, and Indentity Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/319B7E91337070E4?sharingId=5D4CCB983F7B5792)
 
-- Google Cybersecurity Professional Certificate (In Progress)
+- [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/048746bc-6b85-4186-a0c1-44f7e02e6212/public_url)
 - ISC2 Certified in Cybersecurity (In Progress)
 - CompTia Security+ (In Progress)
 
