@@ -46,9 +46,10 @@ I am someone who deeply values the continuous pursuit of personal development, s
 - [Microsoft Certified Security, Compliance, and Indentity Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/JeanCarlaRomin-4831/319B7E91337070E4?sharingId=5D4CCB983F7B5792)
 
 - [Google Cybersecurity Professional Certificate](https://www.credly.com/badges/048746bc-6b85-4186-a0c1-44f7e02e6212/public_url)
-- ISC2 Certified in Cybersecurity (In Progress)
+- [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/5ef30350-f016-4a25-a1b6-e498d20074af/public_url)
 - CompTia Security+ (In Progress)
 
+*****
 
 [📄 View my Resume](Resume-CS.pdf)  
 [📫 Contact me](mailto:jeancarla.romin@outlook.com) • [LinkedIn](https://linkedin.com/in/jeancarlaromin) • [GitHub](https://github.com/jc-romin)
